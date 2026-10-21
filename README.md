@@ -1,10 +1,10 @@
-# Study-Break Robot 🤖
+# Study-Break Robot
 
 **A desk robot that notices when you're getting tired while studying and tells you to take a break, like a small pet with a face.**
 
 Built for the **Edinburgh Award** at the University of Edinburgh School of Informatics Makerspace (October 2026 – summer 2027).
 
-> 🚧 **In progress.** Follow along in the [build log](BUILD_LOG.md).
+> **In progress.** Follow along in the [build log](BUILD_LOG.md).
 
 ## How it works
 
